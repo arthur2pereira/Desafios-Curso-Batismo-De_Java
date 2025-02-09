@@ -1,2 +1,2 @@
 # Desafios-Curso-Batismo-De_Java
- Aqui está todos os codigos q ue eu fiz para a rolucionar os desafios propostos pelo curso Batismo de Java
+Este repositório contém as soluções dos desafios propostos no curso [**Batismo de Java**](https://java10x.dev/).
